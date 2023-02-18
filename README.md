@@ -107,9 +107,3 @@ Bancos de Dados :
     Testes: 40
 
     Link index do Swagger: /security-api/swagger-ui/index.html
-
-# LINKS ADICIONAIS : 
-
-Explicação da API em vídeo no YouTube : https://youtu.be/58U1HHhoS2I
-
-Perfil no Linkedin : https://www.linkedin.com/in/victoralmada/
